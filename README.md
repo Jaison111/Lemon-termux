@@ -64,7 +64,7 @@
 * `apt-get upgrade -y`
 * `apt install python python2 -y`
 * `pip install lolcat`
-* `git clone https://github.com/Jaison111/Lemon-termux`
+* `git clone https://github.com/Jaison111/lemon-termux`
 * `cd Lemon-termux`
 * `bash lemon.sh`
 * `Java 8 Added Successfully`
