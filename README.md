@@ -4,7 +4,7 @@
 <a href="https://jaison111.github.io/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://h4ck3r0.github.io/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-L3mon-green.svg?style=flat-square"></a>
+<a href="https://jaison111.github.io/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-L3mon-green.svg?style=flat-square"></a>
 <a href="https://h4ck3r0.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.2-green.svg?style=flat-square"></a>
 <a href="https://h4ck3r0.github.io/"><img title="Maintainence" src="https://img.shields.io/badge/Maintained-yes-green.svg?style=flat-square"></a>
 </p>
@@ -64,7 +64,7 @@
 * `apt-get upgrade -y`
 * `apt install python python2 -y`
 * `pip install lolcat`
-* `git clone https://github.com/h4ck3r0/Lemon-termux`
+* `git clone https://github.com/Jaison111/Lemon-termux`
 * `cd Lemon-termux`
 * `bash lemon.sh`
 * `Java 8 Added Successfully`
